@@ -1,0 +1,4 @@
+site_name: Product Documentation
+site_url: https://github.com/torocar/docsExercise
+theme:
+  name: material
